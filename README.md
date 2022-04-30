@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Caleb Wallace
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning at DevMountain
-- 💞️ I’m looking to collaborate on React/Node
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning with Google's Data Analysis Certificate
+- 💞️ I’m looking to collaborate on R/SQL/Excel
 - 📫 How to reach me: wallacekid1996@gmail.com
 
 <!---
